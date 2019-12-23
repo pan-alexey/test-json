@@ -1,2 +1,2 @@
 # test-json
-test-json
+node index.js
